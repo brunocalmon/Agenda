@@ -15,6 +15,7 @@ Funcionalidade:
 
 ##Team: 
 -Thiago Picanço
+
 -Bruno Calmon
 
 
